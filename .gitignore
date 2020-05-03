@@ -10,3 +10,6 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+.gitignore
+.idea/workspace.xml
+notebooks/.ipynb_checkpoints/
